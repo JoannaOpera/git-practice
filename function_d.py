@@ -4,6 +4,8 @@ def max_value(numbers):
     """
     print(numbers)
     hello = 2
+
+    print("Second change")
     
     pass
     num = 0
