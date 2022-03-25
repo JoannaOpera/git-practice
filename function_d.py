@@ -5,6 +5,7 @@ def max_value(numbers):
     hello = 2
     
     pass
+    num = 0
 
 
 if __name__ == "__main__":
