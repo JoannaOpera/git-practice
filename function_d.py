@@ -3,6 +3,9 @@ def max_value(numbers):
         in the list.
     """
     print(numbers)
+    hello = 2
+    
+    pass
     num = 0
 
 
