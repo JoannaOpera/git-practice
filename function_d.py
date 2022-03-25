@@ -2,6 +2,8 @@ def max_value(numbers):
     """ This function returns the largest number
         in the list.
     """
+    hello = 2
+    
     pass
 
 
